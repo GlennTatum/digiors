@@ -13,4 +13,4 @@ $ npm install
 $ npm run dev
 ```
 
-To fill the database with mock data run: `python3 mockdata.py` and refreh the page.
+To fill the database with mock data run: `python3 mockdata.py` and refresh the page.
