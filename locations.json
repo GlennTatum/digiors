@@ -1,0 +1,33 @@
+[
+    {
+        "image": "https://untappedcities.com/wp-content/uploads/2020/07/featured-USS-Baylander-Steel-Beach-Restaurant-Wast-Harlem-Pier-Manhattan-NYC1.jpg",
+        "name": "Baylander",
+        "geo": "40.6895° N, 74.0168° W",
+        "slug": "baylander",
+        "status": "closed",
+        "description": "Baylander (IX-514), ex-YFU-79, was a United States Navy Helicopter Landing Trainer (HLT), billed as the world's smallest aircraft carrier. It served as a practice landing site for helicopter pilots in the United States Navy, Army, Air Force, Marine Corps, Coast Guard, and National Guard."
+    },
+    {
+        "image": "https://cdn.vox-cdn.com/thumbor/dB2i87phyTqU5RjDx1wQx0t7bwY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/7019509/GI_After_Completion_of_Phase_1_Oct_14_Iwan_Baan.0.jpg",
+        "name": "Pier 101 Governors Island",
+        "geo": "40.691433° N,-74.0173699° W",
+        "slug": "pier-101-govenors-island",
+        "status": "open",
+        "description": "Governors Island, originally named Nutten Island by the indigenous Lenape for the ubiquitous presence of nut trees, was primarily used as a seasonal foraging and hunting ground. Prior to dredging, it was possible to walk from Red Hook to Governors Island through the Buttermilk Channel during low tide. Following colonization, Governors Island went through a series of radical transformations. During dredging efforts in the 20th century, dredged materials were added to the southern portion of Governors Island, doubling the size of the island. Governors Island was primarily a point of defense and served as an important military installation until 1966, when it was decommissioned and converted into a Coast Guard base. In 1996, the Coast Guard base was closed and the island was transferred to the city for public use. Today, Governors Island is primarily utilized as a recreational, tourism, and cultural arts center. The New York Harbor School and Billion Oyster Project is based on Governors Island."
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Valentino_Pier_2.jpg/2560px-Valentino_Pier_2.jpg",
+        "name": "Valentino Pier",
+        "geo": "40.6784° N, 74.0181° W",
+        "slug": "valentino-pier",
+        "status": "support",
+        "description": "Once dominated by numerous shoals and oyster beds, Red Hook was the site of one of the busiest ports in New York Harbor in the mid 19th century. Settled by the Dutch in the 1600s, English colonization and settlement of the land eventually led to high concentrations of immigrant workers in the Red Hook area who served as a cheap source of labor for local shipping companies. The primary good imported in Red Hook was grain, which was then shipped throughout New York City. Valentino Park and Pier is named after local firefighter and NYC Parks lifeguard Louis J. Valentino Jr., who lost his life in 1996 searching for wounded firefighters in a three-alarm blaze. "
+    },
+    {
+        "image": "https://hudsonriverpark.org/app/uploads/2020/05/Pier-40-HRPK-Soccar-Fields-Dusk.jpg",
+        "name": "Pier 40",
+        "geo": "40.7292° N, 74.0117° W",
+        "status": "open",
+        "description": "The oyster reefs located on the western shore of Manhattan were greatly utilized by both Native Americans and Dutch colonists as a central source of protein. Following colonization, oyster barges traveling up and down the Hudson River provided accessible food to poor communities throughout the city. After the collapse of the oyster industry, Hudson River Park became a key launching point for several 19th century steamboat companies operating along the Hudson. Hudson River Park itself emerged as a result of failed interstate proposals in the 1970’s. Pier 40 was originally intended to serve as a passenger and cargo terminal but after decades of neglect, was finally purchased by the city and repurposed as a recreational area in 1998."
+    }
+]
