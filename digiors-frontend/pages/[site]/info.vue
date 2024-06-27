@@ -34,6 +34,16 @@
             </NuxtLink>
             </v-btn>
         </span>
+        <span class="pa-2"></span>
+        <span>
+            <v-btn
+            color="green"
+            >
+            <NuxtLink :to="`data`" style="text-decoration: none; color: white;">
+                <p>Submit Data</p>
+            </NuxtLink>
+            </v-btn>
+        </span>
 
         <div class="pt-4"></div>
         {{ site.description }}
@@ -107,7 +117,7 @@ export default {
                     this.site = data
                 })
             })
-        }
+        },
     },
     created() {
         this.fetchSite()

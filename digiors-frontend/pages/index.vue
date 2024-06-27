@@ -15,7 +15,7 @@
   export default {
     data() {
       return {
-        sites: {}
+        sites: []
       }
     },
     methods: {
@@ -29,7 +29,7 @@
             this.sites = data
           })
         })
-      }
+      },
     },
     created() {
       this.fetchSites()
