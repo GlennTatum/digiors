@@ -15,7 +15,7 @@
 
                 <v-select
                 :items="registrations"
-                item-title="date_fmt"
+                item-title="dateBegin_fmt"
                 item-value="id"
                 v-model="registration"
                 required
